@@ -1,4 +1,4 @@
-uthor: "Pradip Adhikari"
+Author: "Pradip Adhikari"
 date: "4/7/2020"
 output: html_document
 ---
